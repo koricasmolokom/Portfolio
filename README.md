@@ -3,4 +3,4 @@
 | Проект       | Библиотеки | Описание проекта |
 |:------------:|:----------:|:----------------:|
 | [Телеком](https://github.com/koricasmolokom/Portfolio/blob/main/telekom/final_pr_github.ipynb) | pandas, matplotlib, seaborn, phik, sklearn, lifelines, numpy, catboost, lightgbm    |  Прогнозирование оттока клиентов. |
-| [Яндекс.Недвижимость](https://github.com/koricasmolokom/Portfolio/blob/main/yandex_nedvig/yandex_nedvig_github.ipynb) | pandas, matplotlib, seaborn, numpy, phik | Данные, загруженные с Яндекс.Недвижимости для анализа факторов, влияющих на ее цену |
+| [Яндекс.Недвижимость](https://github.com/koricasmolokom/Portfolio/blob/main/yandex_nedvig/yandex_nedvig_github.ipynb) | pandas, matplotlib, seaborn, numpy, phik | Данные, загруженные с Яндекс.Недвижимости для анализа факторов, влияющих на цену объектов недвижимости |
