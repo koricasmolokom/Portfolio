@@ -5,4 +5,18 @@
 * обучить модель предсказывать отток
 * достичь метрики ROC-AUC > 0.85
 ## Библиотеки
+- pandas
+- matplotlib,
+- seaborn,
+- phik,
+- sklearn,
+- lifelines,
+- numpy,
+- catboost,
+- lightgbm
 ## Выводы
+* Были протестированы несколько моделей, наилучшая по метрике ROC-AUC вышла LGBMClassifier(learning_rate=0.5, max_depth=2, n_estimators=500, random_state=80523). Значение ROC-AUC на ней: 
+    0.9119630416388477.
+* Матрица ошибок показала, что True Positive предсказывается лучше, чем False Positive. И также True Negative лучше, чем False Negative.
+* Accuracy score равен 0.9176604202157865
+* Самые значимые признаки - общее время подписки клиента, ежемесячные платы и общие.
